@@ -1,20 +1,13 @@
 # Prettify JSON
 
-[TODO. There will be project description]
+[Программа предназначена для удобного вывода данных из файла .json]
 
 # Quickstart
 
-[TODO]
+[При запуске программы необходимо ввести имя фаила, который вы положили в папку с программой.
 
-Example of script launch on Linux, Python 3.5:
+Для самого запуска программы на убунту вам необходимо иметь питон 3-й версии и прописать в терминале следующую строку:
 
-```bash
+"python3 <program_name>", где <program_name> - это ПОЛНЫЙ путь к самой программе и ее названию. 
+Например: "python3 /home/user/pprint_json.py"  и после предложения  :   ввести полный путь к файлу]
 
-$ python pprint_json.py <path to file>
-# TODO add output example
-
-```
-
-# Project Goals
-
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
